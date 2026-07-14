@@ -1,0 +1,21 @@
+{
+  "concurso": "Concurso GMBTech - Analista Administrativo",
+  "materias": {
+    "Língua Portuguesa": [
+      "Interpretação de Texto",
+      "Concordância Verbal e Nominal",
+      "Crase",
+      "Regência Verbal e Nominal"
+    ],
+    "Raciocínio Lógico": [
+      "Proposições e Conectivos",
+      "Tabelas Verdade",
+      "Análise Combinatória"
+    ],
+    "Direito Administrativo": [
+      "Princípios da Administração Pública",
+      "Atos Administrativos",
+      "Licitações e Contratos"
+    ]
+  }
+}
