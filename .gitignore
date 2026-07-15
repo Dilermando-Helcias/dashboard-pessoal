@@ -2,14 +2,9 @@
 credentials.json
 token.json
 
-# Banco de dados local (dados pessoais seus)
-*.db
-
 # Python
 __pycache__/
 *.pyc
-.venv/
-venv/
 
 # Build do PyInstaller
 build/
